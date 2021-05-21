@@ -4,3 +4,5 @@ Features implemented :
 - Finger sensing 
 - SpO2 and HR calculation and display
 - Provision for hardware interrupt to power off or on the sensor
+Demo video
+https://youtu.be/lHQeM-SnJkU
